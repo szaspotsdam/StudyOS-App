@@ -1,7 +1,7 @@
 ### StudyOS APP
 # Install 
 ```bash 
-git clone ...
+git clone https://github.com/szaspotsdam/StudyOS-App
 ```
 # Start 
 
