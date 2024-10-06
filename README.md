@@ -6,5 +6,5 @@ git clone ...
 # Start 
 
 ```bash
-python3 
+python3 StudyOS-App.py
 ```
